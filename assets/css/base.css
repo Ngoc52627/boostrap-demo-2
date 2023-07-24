@@ -7,6 +7,9 @@
     --color-text: #6F8BA4;
     --color-bg-2: #f2f2fe;
 }
+html {
+    scroll-behavior: smooth;
+}
 hr {
     padding: 0;
     margin: 0 !important;
